@@ -1,0 +1,12 @@
+/build/
+/dist/
+*.dll
+*.exe
+*.pdb
+*.zip
+*.sav
+*.SAV
+*.ogg
+*.dat
+*.dir
+__pycache__/
